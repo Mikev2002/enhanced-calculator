@@ -17,7 +17,7 @@ A modular command-line calculator built in Python, featuring:
 
 ## Getting Started
 
-### 1. Clone the repo
+1. Clone the repo
 
 ```bash
 git clone https://github.com/Mikev2002/enhanced-calculator.git
@@ -37,3 +37,24 @@ pip install -r requirements.txt
 
 $env:PYTHONPATH="."     # Windows (PowerShell)
 python app/calculator_repl.py
+
+
+🧪 Run Tests + Coverage
+
+pytest --cov=app tests/
+
+
+
+Features
+
+add 5 2, divide 8 4, power 2 3, etc.
+
+undo / redo
+
+clear history
+
+save / load (via CSV)
+
+history to display past calculations
+
+help for all commands
