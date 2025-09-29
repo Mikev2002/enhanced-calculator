@@ -1,5 +1,10 @@
 # app/calculator_repl.py
 
+# Author: Mike V.
+# Date: 2025-09-29
+# Enhanced Calculator - Module 5 Assignment
+
+
 from app.calculation import OperationFactory
 from app.history import HistoryManager
 from app.calculator_memento import MementoManager

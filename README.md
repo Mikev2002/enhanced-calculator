@@ -1,3 +1,6 @@
+# Author: Mike V.  Date: 2025-09-29
+
+
 # Enhanced Calculator 
 
 A modular command-line calculator built in Python, featuring:
